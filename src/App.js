@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import slack from './slack.min';
+//var slack = require('./slack.min')
+import slack from './slack.min'
 
 class App extends Component {
 
